@@ -91,7 +91,6 @@ public class MainListaDupla {
                     }
                 break;
             }
-            
         }while(op != 0);
         
     }
